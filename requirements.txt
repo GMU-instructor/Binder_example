@@ -1,4 +1,4 @@
-PIL==9.2.0
+PIL==9
 PyPDF2==2.11.1
 joblib==1.2.0
 matplotlib==3.6.2
